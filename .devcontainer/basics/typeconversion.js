@@ -19,3 +19,13 @@ let someno=78
 let stringnum=String(someno);
 console.log(typeof someno);
 console.log(stringnum);
+let value=8
+let negvalue= -value
+console.log(2+2);
+console.log(2-2);
+console.log(2*2);
+console.log(2**2);
+console.log(2%2);
+console.log(2/2);
+console.log(2^8);
+
